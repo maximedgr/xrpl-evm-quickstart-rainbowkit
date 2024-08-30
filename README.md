@@ -4,7 +4,7 @@ This is a quickstart template for creating a Next.js application with RainbowKit
 
 ## Preview 
 
-![Demo Screenshot](./src/assets/scree.png)
+![Demo Screenshot](./src/assets/screen.png)
 
 ## Features
 

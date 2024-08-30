@@ -2,13 +2,17 @@
 
 This is a quickstart template for creating a Next.js application with RainbowKit wallet integration, pre-configured for the XRPL EVM Sidechain Devnet.
 
+## Preview 
+
+![Demo Screenshot](./src/assets/scree.png)
+
 ## Features
 
 - Next.js for efficient React-based web development
 - RainbowKit for seamless wallet connection
 - Wagmi hooks for Ethereum interactions
 - Pre-configured for XRPL EVM Sidechain Devnet
-- Bqsic account information display (network, address, balance)
+- Basic account information display (network, address, balance)
 - Direct link to XRPL EVM Bridge Faucet
 
 ## Getting Started
@@ -38,12 +42,33 @@ const xrpl_evm_sidechain_devnet = {
 } as const satisfies Chain;
 ```
 
+## More XRPL EVM Sidechain Tutorials
+
+| Repo                | Link                                                    |
+|---------------------|---------------------------------------------------------|
+| Deploy your first Solidity contract on the XRPL EVM Sidechain using Hardhat 👷 | [GitHub Repository](https://github.com/maximedgr/xrpl-evm-quickstart-hardhat) |
+| Play with ZK on the XRPL EVM Sidechain ✨ | [GitHub Repository](https://github.com/maximedgr/zk-xrpl-evm-workshop) |
+
+
 ## Documentation
 
-- [Next.js Documentation](https://nextjs.org/docs)
 - [RainbowKit Documentation](https://www.rainbowkit.com/docs)
 - [Wagmi Documentation](https://wagmi.sh/)
 - [XRPL EVM Sidechain Documentation](https://www.xrplevm.org/)
+- [Next.js Documentation](https://nextjs.org/docs)
+
+### Additional Resources
+
+|Resources|Link|
+|---|---|
+|Docs|https://www.xrplevm.org/|
+|Bridge & Faucet|https://bridge.xrplevm.org/|
+|MetaMask|https://metamask.io/|
+|Solidity|https://docs.soliditylang.org/en/v0.8.26/|
+|Hardhat|https://hardhat.org/|
+|Remix IDE|https://remix.ethereum.org/|
+|Grants|https://xrplgrants.org/|
+|Accelerator|https://xrplaccelerator.org/|
 
 ## Contributing
 
